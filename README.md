@@ -1,7 +1,5 @@
-# MiniProject of EncorePlaydataEdu - 02
-
+# NaverMovieProject
+## MiniProject of EncorePlaydataEdu - 02
 ### Team Member( Woongtae Kim, Hyunjun Lee )
-
 ### Relational Data Base Management System Modeling
-
-### Benchmarking about ArthdalChronicles
+### Benchmarking about NaverMovie
